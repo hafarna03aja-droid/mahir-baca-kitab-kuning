@@ -1,0 +1,13 @@
+# Vercel Production Configuration
+# This file is automatically read by Vercel during deployment
+
+# Build settings
+VERCEL_BUILD_COMMAND=npm run build
+VERCEL_OUTPUT_DIRECTORY=dist
+VERCEL_INSTALL_COMMAND=npm install
+
+# Node.js version (recommended for stability)
+NODE_VERSION=18
+
+# Build optimization
+GENERATE_SOURCEMAP=false
