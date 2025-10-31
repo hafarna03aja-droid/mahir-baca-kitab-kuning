@@ -1,0 +1,7 @@
+{
+  "name": "Mahir Kitab Kuning",
+  "description": "An advanced application to help users master reading and understanding classical Arabic texts (Kitab Kuning) with comprehensive AI-powered modules, including text analysis, virtual assistance, reading practice, and contextual search.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
